@@ -1,10 +1,10 @@
-C++ Compile and Run Tool for Linux
+# C++ Compile and Run Tool for Linux
 
 About: 
 Now compile and execute CPP files from anywhere your computer with ease.
 GUI for this application is written using PyQt.
 
-Shortcuts:
+## Shortcuts:
 
 Run: 		Ctrl + 'R'
 
