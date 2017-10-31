@@ -1,4 +1,4 @@
-C++ Compile and Run Tool for Linux
+<h1>C++ Compile and Run Tool for Linux</h1>
 
 About: 
 Now compile and execute CPP files from anywhere your computer with ease.
